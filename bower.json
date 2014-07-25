@@ -1,0 +1,22 @@
+{
+  "name": "video-form",
+  "version": "0.0.1",
+  "homepage": "https://github.com/awc737/video-form",
+  "authors": [
+    "acrawford <acrawford@cmdagency.com>"
+  ],
+  "description": "Full screen video background and form demonstration",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "BigVideo.js": "~1.0.9",
+    "jquery": "1.9"
+  }
+}
