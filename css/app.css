@@ -5923,3 +5923,7 @@ table.hide-for-medium {
     margin: 0;
   }
 }
+/* line 1, ../sass/_custom.scss */
+body {
+  background: #333;
+}
